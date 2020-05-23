@@ -1,0 +1,318 @@
+positif = 3095
+positif dirawat = 2385
+kasus sembuh = 426
+kasus meninggal = 273
+pdp = 5499
+pdp diawasi = 2947
+odp = 23423
+odp dipantau = 4046
+positif baru = 153
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5025454/naik-153-pasien-covid-19-di-jatim-tembus-3095
+valid tanggal : 22 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2942
+positif dirawat = 2262
+kasus sembuh = 413
+kasus meninggal = 258
+pdp = 5267
+pdp diawasi = 2296
+odp = 23271
+odp dipantau = 3989
+positif baru = 451
+
+sumber : 
+valid tanggal : 21 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2481
+positif dirawat = 1836
+kasus sembuh = 403
+kasus meninggal = 243
+pdp = 5274
+pdp diawasi = 2388
+odp = 23151
+odp dipantau = 3994
+positif baru = 119
+
+sumber : https://www.cnnindonesia.com/nasional/20200521033402-20-505531/update-corona-jatim-20-mei-2491-positif-403-sembuh
+valid tanggal : 20 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2372
+positif dirawat = 1746
+kasus sembuh = 387
+kasus meninggal = 230
+pdp = 5198
+pdp diawasi = 2418
+odp = 22985
+odp dipantau = 4024
+positif baru = 91
+
+sumber : https://kumparan.com/kumparannews/update-corona-di-jatim-18-mei-2-281-positif-375-sembuh-224-meninggal-1tRMOdvk1dP/full
+valid tanggal : 19 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2281
+positif dirawat = 1673
+kasus sembuh = 375
+kasus meninggal = 224
+pdp = 5014
+pdp diawasi = 2330
+odp = 22859
+odp dipantau = 4093
+positif baru = 131
+
+sumber : https://kumparan.com/kumparannews/update-corona-di-jatim-18-mei-2-281-positif-375-sembuh-224-meninggal-1tRMOdvk1dP/full
+valid tanggal : 18 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2150
+positif dirawat = 1593
+kasus sembuh = 337
+kasus meninggal = 211
+pdp = 4943
+pdp diawasi = 2304
+odp = 22734
+odp dipantau = 4101
+positif baru = 62
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5018607/tambah-62-pasien-covid-19-di-jatim-jadi-2150-sembuh-337-meninggal-211
+valid tanggal : 17 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 2088
+positif dirawat = 1580
+kasus sembuh = 310
+kasus meninggal = 196
+pdp = 4822
+pdp diawasi = 2265
+odp = 22613
+odp dipantau = 4159
+positif baru = 167
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5017658/tambah-167-pasien-covid-19-di-jatim-jadi-2088-sembuh-312-meninggal-196
+valid tanggal : 16 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1921
+positif dirawat = 1434
+kasus sembuh = 302
+kasus meninggal = 185
+pdp = 4625
+pdp diawasi = 2116
+odp = 22497
+odp dipantau = 4169
+positif baru = 64
+
+sumber : https://www.cnnindonesia.com/nasional/20200515211250-20-503948/update-corona-jatim-15-mei-1921-positif-302-orang-sembuh
+valid tanggal : 15 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1858
+positif dirawat = 1384
+kasus sembuh = 294
+kasus meninggal = 180
+pdp = 4509
+pdp diawasi = 2037
+odp = 21910
+odp dipantau = 4236
+positif baru = 93
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5015304/tambah-93-pasien-covid-19-di-jatim-jadi-1858-sembuh-294-meninggal-180
+valid tanggal : 14 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1766
+positif dirawat = 1322
+kasus sembuh = 278
+kasus meninggal = 166
+pdp = 4372
+pdp diawasi = 1963
+odp = 21738
+odp dipantau = 4295
+positif baru = 117
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5013767/tambah-117-pasien-covid-19-di-jatim-jadi-1766-sembuh-278-meninggal-166
+valid tanggal : 13 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1649
+positif dirawat = 1213
+kasus sembuh = 274
+kasus meninggal = 162
+pdp = 4280
+pdp diawasi = 1910
+odp = 21567
+odp dipantau = 4298
+positif baru = 115
+
+sumber : https://www.cnnindonesia.com/nasional/20200512225548-20-502706/update-corona-jatim-12-mei-1649-positif-274-sembuh
+valid tanggal : 12 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1534
+positif dirawat = 1122
+kasus sembuh = 257
+kasus meninggal = 155
+pdp = 4166
+pdp diawasi = 1898
+odp = 21391
+odp dipantau = 4301
+positif baru = 83
+
+sumber : https://surabaya.liputan6.com/read/4251366/update-corona-covid-19-pada-11-mei-2020-di-jatim-pasien-sembuh-bertambah-13-orang#
+valid tanggal : 11 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1491
+positif dirawat = 1098
+kasus sembuh = 244
+kasus meninggal = 149
+pdp = 4031
+pdp diawasi = 1852
+odp = 21254
+odp dipantau = 4477
+positif baru = 83
+
+sumber : https://surabaya.liputan6.com/read/4250380/update-corona-covid-19-di-jawa-timur-pada-10-mei-2020
+valid tanggal : 10 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1409
+positif dirawat = 1036
+kasus sembuh = 230
+kasus meninggal = 143
+pdp = 3971
+pdp diawasi = 1850
+odp = 21131
+odp dipantau = 4576
+positif baru = 128
+
+sumber : https://www.vivanews.com/berita/nasional/48603-update-corona-jatim-9-mei-2020-tambah-128-total-positif-1-409?medium=autonext
+valid tanggal : 09 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1281
+positif dirawat = 923
+kasus sembuh = 227
+kasus meninggal = 141
+pdp = 3854
+pdp diawasi = 1838
+odp = 20858
+odp dipantau = 4770
+positif baru = 18
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5007548/kasus-covid-19-di-jatim-capai-1281-orang-227-sembuh-141-meninggal
+valid tanggal : 08 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1265
+positif dirawat = 918
+kasus sembuh = 210
+kasus meninggal = 137
+pdp = 3802
+pdp diawasi = 1833
+odp = 20759
+odp dipantau = 4853
+positif baru = 45
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5006124/tambah-45-total-kasus-covid-19-di-jatim-capai-1265-orang 
+valid tanggal : 07 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1220
+positif dirawat = 883
+kasus sembuh = 205
+kasus meninggal = 132
+pdp = 3645
+pdp diawasi = 1717
+odp = 20608
+odp dipantau = 5084
+positif baru = 58
+
+sumber : https://surabaya.liputan6.com/read/4247586/melihat-data-sebaran-corona-covid-19-di-jatim-pada-6-mei-2020
+valid tanggal : 06 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1162
+positif dirawat = 841
+kasus sembuh = 198
+kasus meninggal = 123
+pdp = 3547
+pdp diawasi = 1710
+odp = 20401
+odp dipantau = 5219
+positif baru = 38
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5003873/update-corona-di-jatim-5-mei-1162-positif-198-sembuh-123-meninggal
+https://www.cnnindonesia.com/nasional/20200505235003-20-500457/update-corona-jatim-5-mei-1162-positif-198-sembuh
+valid tanggal : 05 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1124
+positif dirawat = 759
+kasus sembuh = 187
+kasus meninggal = 120
+pdp = 3409
+pdp diawasi = 1621
+odp = 20116
+odp dipantau = 6122
+positif baru = 10
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5002264/update-kasus-covid-19-di-jatim-4-mei-1124-positif-187-sembuh-120-meninggal
+valid tanggal : 04 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1114
+positif dirawat = 820
+kasus sembuh = 177
+kasus meninggal = 117
+pdp = 3319
+pdp diawasi = 1593
+odp = 19910
+odp dipantau = 5368
+positif baru = 6
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5000925/update-covid-19-3-mei-di-jatim-1114-positif-177-sembuh-117-meninggal-dunia/2
+valid tanggal : 03 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+positif = 1037
+positif dirawat = 754
+kasus sembuh = 171
+kasus meninggal = 112
+pdp = 3250
+pdp diawasi = 1680
+odp = 19767
+odp dipantau = 5350
+positif baru = 6
+
+sumber : https://news.detik.com/berita-jawa-timur/d-5000049/update-covid-19-jatim-2-mei-1037-positif-171-sembuh-112-meninggal
+valid tanggal : 02 Mei 2020
+
+<-------------------------------------------------------------------------------------------------------------------------------->
+
+
+
