@@ -42,16 +42,20 @@
 		  ?>
 		 
     <div class="col-md-2"></div>
-        <div class="row justify-content-between">
+       <div class="row justify-content-between">
           <div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
             <img src="sipid_peduli.png" class="img-fluid" alt="" data-aos="zoom-in">
           </div>
           <div class="col-lg-6 pt-5 pt-lg-0">
-            <h4 data-aos="fade-up" data-aos-delay="100">
-              Mari ulurkan bantuan</h4> <p data-aos="fade-up" data-aos-delay="200">untuk membantu tenaga medis kita dalam menangani covid-19...</p>
+            <h4 data-aos="fade-up" data-aos-delay="100">Mari ulurkan bantuan</h4> 
+			  	<p data-aos="fade-up" data-aos-delay="200">untuk membantu tenaga medis kita dalam menangani covid-19...<br></p>
+			<h4 data-aos="fade-up" data-aos-delay="300">No. Rekening : </h4> 
+			  	<p data-aos="fade-up" data-aos-delay="400"><strong>(BCA)</strong> 12 345 6 7890 <strong>a.n. </strong> Arrandi Muhamad Riesta <br> 
+			  <strong>(BNI)</strong> 98 765 4 3210 <strong>a.n. </strong> Zabrina Tuzzahra 
+			  </p>
             
             <div class="row">
-              <div class="col-md-7" data-aos="fade-up" data-aos-delay="300">
+              <div class="col-md-7" data-aos="fade-up" data-aos-delay="500">
                 <i class="bx bx-receipt"></i>
                 <h4>Akumulasi bantuan sementara</h4>
                 <p><strong>Rp. <?php echo $jmlnominal;?>,-</strong></p>
